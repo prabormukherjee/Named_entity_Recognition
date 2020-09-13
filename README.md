@@ -8,7 +8,9 @@ Here I performed Named Entity Recognition using Keras with TF. The dataset consi
 + tim = Time indicator
 + art = Artifact
 + eve = Event
-+ nat = Natural Phenomenon
++ nat = Natural Phenomenon     
+
+After the preprocessing of the data I used a Bidirectional LSTM model to train it.
 
 #### Dataset
-Dataset from kaggel can be found *[here](https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus)*
+Dataset from kaggle can be found *[here](https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus)*
