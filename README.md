@@ -4,4 +4,6 @@ Here I performed Named Entity Recognition using Keras with TF. The dataset consi
 + geo = Geographical Entity
 + org = Organization
 + per = Person
-+ gpe = Geo
++ gpe = Geopolitical Entity
++ tim = Time indicator
+
