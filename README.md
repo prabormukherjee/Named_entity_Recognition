@@ -1,2 +1,3 @@
 # Named_entity_Recognition
-Recognise named entity using Keras
+
+Here I performed Named Entity Recognition using Keras with TF. The dataset consists of some category, 
